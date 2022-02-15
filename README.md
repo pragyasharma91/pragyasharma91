@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pragyasharma91
-- 👀 I’m interested in harnessing the power of data using advance data analytics and impressive visualizations
+- 👀 I’m interested in harnessing the power of data using advanced data analytics and impressive visualizations
 - 🌱 I’m currently learning Computational Finance and Risk Management from University of Washington
 - 💞️ I’m looking to collaborate on data science/data analytics/quantitative research projects
 - 📫 Reach me @linkedin.com/in/pragshar/
